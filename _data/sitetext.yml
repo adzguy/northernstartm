@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 
+    title: Welcome to Urgench Inc!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
