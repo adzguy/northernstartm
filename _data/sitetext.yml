@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Urgench Inc!
-    text: It's Nice To Meet You
+   # title: Welcome to My Website!
+    text: Welcome
     button: Tell Me More
     buttonlink: "#services"
 
@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "Driver Training"
-        desc: "Paid CDL Truck Driver Training in Chicago IL"
+      - title: "Teaching"
+        desc: "Lorem ipsum dolor sit amet"
         icon: fas fa-id-card #find more at https://fontawesome.com/icons
-      - title: "Supply Chain"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Fixing"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
         icon: fas fa-laptop
-      - title: "Truckload"
+      - title: "Graphics"
         desc: "Your description here"
         icon: fas fa-truck-loading
 
@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Portfolio"
     text: "Something here"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "About"
@@ -45,7 +45,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2019-2020"
+        year: "Year"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
@@ -54,9 +54,9 @@ en: &DEFAULT_EN
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Website created"
+      - title: "Something else"
         year: "2021"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Atabek Bekenov"
+      - name: "First Last"
         role: "Lead Designer"
         image: assets/img/team/500x500.jpg
         social:
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Zakir Bekenov"
+      - name: "First Last"
         role: "Lead Marketer"
         image: assets/img/team/500x500.jpg
         social:
@@ -117,8 +117,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Ahmet Bekenov"
-        role: "DevOps Engineer"
+      - name: "First Last"
+        role: "Tester"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com

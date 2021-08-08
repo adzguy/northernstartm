@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "https://adzguy.github.io/urgench" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Urgench Inc
-email      : devrannur@gmail.com #this is also the email contact forms will go to
+title      : YourBrand
+email      : mydevtestemail123@gmail.com #this is also the email contact forms will go to
 description: "Site description"
-author     : Your Name
+author     : Dzone Agency
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
